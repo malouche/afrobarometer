@@ -11,7 +11,7 @@ Install
 -------
 
 ``` r
-devtools::install_github("sboysel/afrobarometer")
+devtools::install_github("malouche/afrobarometer")
 ```
 
 Data
